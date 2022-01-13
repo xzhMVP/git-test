@@ -5,3 +5,5 @@ hello linux hello git
 hello master test
 hello linux hello git hot-fix test
 i can change you
+git is very good 
+i like it 
